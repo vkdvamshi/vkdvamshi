@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://vkdvamshi.github.io"><img src="https://img.shields.io/badge/Portfolio-vkdvamshi.github.io-3a4ad6?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/vamshi-krishna-damidi-b6434512/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:vkdvamshi@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-555?style=for-the-badge" alt="Email"></a>
   <a href="https://oracleebsblog.wordpress.com"><img src="https://img.shields.io/badge/Blog-oracleebsblog-21759b?style=for-the-badge" alt="Blog"></a>
 </p>
@@ -27,8 +28,11 @@
 | Project | What it is |
 |---|---|
 | 🌐 [**Portfolio Website**](https://vkdvamshi.github.io) | All my work, experience & résumé in one place |
-| 🤖 [**ai-ml-learnings**](https://github.com/vkdvamshi/ai-ml-learnings) | My hands-on machine learning journey |
-| 🧠 [**DeepLearningAI**](https://github.com/vkdvamshi/DeepLearningAI) | Deep learning coursework & notebooks |
+| 🔎 [**advanced-rag-techniques**](https://github.com/vkdvamshi/advanced-rag-techniques) | Modern Retrieval-Augmented Generation patterns with LLMs |
+| 📊 [**llm-csv-data-analyst**](https://github.com/vkdvamshi/llm-csv-data-analyst) | Plain-English CSV analysis via an LLM pandas agent |
+| 📝 [**meeting-notes-summarizer**](https://github.com/vkdvamshi/meeting-notes-summarizer) | Meeting audio → structured summaries (Whisper + LangChain) |
+| 🔥 [**wildfire-prediction**](https://github.com/vkdvamshi/wildfire-prediction) | Spatiotemporal ML pipeline (EDA → model selection) |
+| 🏠 [**house-prices-ml**](https://github.com/vkdvamshi/house-prices-ml) | Kaggle regression with LightGBM & feature engineering |
 | ☁️ [**vkdvamshi-oci**](https://github.com/vkdvamshi/vkdvamshi-oci) | Oracle Cloud automation toolkit |
 
 ### 🛠️ Tech
